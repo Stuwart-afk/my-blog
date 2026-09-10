@@ -12,7 +12,8 @@
     <br>
     <label>Content</label>
     <br>
-    <textarea name="body" id="body" cols="80" rows="10"></textarea>        
+    <textarea name="body" id="body" rows="10"></textarea>
+
     <button type="submit">Create Post</button>
     </div>
     </form>
